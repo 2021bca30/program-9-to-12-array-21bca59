@@ -12,7 +12,7 @@ void main()
 	gets(s2);
 	if(strcmp(s1,s2)==0)
 	{
-		printf("\n you entered the same string two times:");
+		//printf("\m you entered the same string two times:");
 	}
 	else
 	{
